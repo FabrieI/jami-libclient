@@ -57,7 +57,7 @@
     <message>
         <location filename="../src/api/call.h" line="79"/>
         <source>Timeout</source>
-        <translation>Zamanaşımı</translation>
+        <translation>Zaman aşımı</translation>
     </message>
     <message>
         <location filename="../src/api/call.h" line="81"/>
@@ -123,7 +123,7 @@
         <location filename="../src/avmodel.cpp" line="347"/>
         <location filename="../src/avmodel.cpp" line="366"/>
         <source>default</source>
-        <translation>öntanımlı</translation>
+        <translation>ön tanımlı</translation>
     </message>
     <message>
         <location filename="../src/newcallmodel.cpp" line="58"/>
